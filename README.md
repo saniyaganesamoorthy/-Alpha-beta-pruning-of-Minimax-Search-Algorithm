@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:       </h3>
-<h3>Register Number/Staff Id:           </h3>
+<h3>Name: SANIYA G </h3>
+<h3>Register Number/Staff Id: 212223240147 </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -31,4 +31,11 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/440797bd-53cb-49c1-b18d-89776864c3e7)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/81575a16-26b2-46f1-a8ac-27c9ed0a0fe5)
 
+## Output:
+<img width="1593" height="877" alt="image" src="https://github.com/user-attachments/assets/c7cad851-53ca-42e8-a944-cba54c06d6d3" />
+<img width="1525" height="704" alt="image" src="https://github.com/user-attachments/assets/80324e14-1a85-4dd4-bb25-a4776602635a" />
+<img width="1666" height="323" alt="image" src="https://github.com/user-attachments/assets/9c3f2170-5df4-4000-9152-c5959a932686" />
+
+## Result:
+We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game.
 
